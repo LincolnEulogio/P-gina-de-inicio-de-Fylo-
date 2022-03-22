@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo landing page with two column layout
 
-![Design preview for the Fylo landing page with two column layout challenge](./images/img1.png)
+![Design preview for the Fylo landing page with two column layout challenge](./images/img1.PNG)
 
 ![Design preview for the Fylo landing page with two column layout challenge](./images/img2.png)
 
